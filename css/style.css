@@ -1137,4 +1137,9 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
+cherryImg {
+  width: 100px;
+  height: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
