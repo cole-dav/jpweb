@@ -1140,7 +1140,7 @@ h1, h2, h3, h4, h5, h6 {
 cherryImg {
   width: 20px;
   height: auto;
-  position: relative;
+  /* position: relative; */
 }
 
 /*# sourceMappingURL=style.css.map */
