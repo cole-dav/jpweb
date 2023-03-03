@@ -1139,7 +1139,7 @@ h1, h2, h3, h4, h5, h6 {
 
 cherryImg {
   width: 100%;
-	max-width: 50px;
+	max-width: 10px;
   height: auto;
   /* position: relative; */
 }
